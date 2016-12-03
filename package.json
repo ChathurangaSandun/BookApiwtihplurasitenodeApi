@@ -1,0 +1,25 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "consol.log(\"ok\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChathurangaSandun/BookapiwtihNodeusingplurasite.git"
+  },
+  "keywords": [
+    "NodejsAPI"
+  ],
+  "author": "ChathurangaSandun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChathurangaSandun/BookapiwtihNodeusingplurasite/issues"
+  },
+  "homepage": "https://github.com/ChathurangaSandun/BookapiwtihNodeusingplurasite#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
